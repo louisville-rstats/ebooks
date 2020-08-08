@@ -1,0 +1,12 @@
+errors:
+https://docs.python.org/3/library/exceptions.html
+http://encyclopython.com/pages/error-handling-cheat-sheet.html
+https://docs.python.org/3/tutorial/errors.html
+https://ehmatthes.github.io/pcc/cheatsheets/README.html
+
+blog
+https://mohansuresh36.blogspot.com/2020/07/first-ever-blog.html
+https://towardsdatascience.com/memory-management-in-python-6bea0c8aecc9
+
+one liners
+https://nostarch.com/NLPPython

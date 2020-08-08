@@ -1,0 +1,7 @@
+Python course
+https://www.python-course.eu/lambda.php
+https://docs.python.org/3/library/
+Pandas cookbook
+https://www.w3resource.com/python-exercises/pandas/index-dataframe.php
+Itertools
+https://docs.python.org/3/library/itertools.html
